@@ -135,7 +135,7 @@ http://localhost:5142
 
 ## 🤖 AI Tools Used
 
-* ChatGPT (primary tool)
+* ChatGPT (primary tool) (*** AI_Conversation(Improving Trading UI).pdf )
   * Understand Trading Processed
   * Designed system architecture
   * Generated initial C# service and strategy code
