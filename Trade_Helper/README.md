@@ -1,4 +1,8 @@
-Bash Command to build and run the application:
+Step By step Guide to run the application:
+1. Clone this Repo
+2. Open Trade_Helper.slnx
+3. Open Terminal
+4. Bash Command to build and run the application:
 ```bash
 cd reactBotUI
 npm run build
