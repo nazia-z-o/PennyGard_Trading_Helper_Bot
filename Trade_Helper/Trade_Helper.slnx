@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Trade_UnitTests/Trade_UnitTests.csproj" />
+  </Folder>
+  <Project Path="Helper_API/Helper_API.csproj" />
+  <Project Path="Helper_Application/Helper_Application.csproj" />
+  <Project Path="Helper_Domain/Helper_Domain.csproj" />
+  <Project Path="Helper_Infrastructure/Helper_Infrastructure.csproj" />
+  <Project Path="reactBotUI/reactBotUI.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

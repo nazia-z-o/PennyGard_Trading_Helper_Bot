@@ -1,0 +1,11 @@
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\bin\Release\net8.0\Helper_Domain.deps.json
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\bin\Release\net8.0\Helper_Domain.dll
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\bin\Release\net8.0\Helper_Domain.pdb
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\Helper_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\Helper_Domain.AssemblyInfoInputs.cache
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\Helper_Domain.AssemblyInfo.cs
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\Helper_Domain.csproj.CoreCompileInputs.cache
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\Helper_Domain.dll
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\refint\Helper_Domain.dll
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\Helper_Domain.pdb
+C:\Users\tanvi\source\repos\Nazia\Trade_Helper_Bot\Trade_Helper\Helper_Domain\obj\Release\net8.0\ref\Helper_Domain.dll

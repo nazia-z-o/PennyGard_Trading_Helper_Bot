@@ -1,0 +1,6 @@
+wwwroot\assets\PennyGard-Bmi7WTYE.png
+wwwroot\assets\index-BUBwOPsM.css
+wwwroot\assets\index-DJzpEZP6.js
+wwwroot\favicon.svg
+wwwroot\icons.svg
+wwwroot\index.html
